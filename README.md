@@ -1,27 +1,28 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
+![WhatsApp Image 2025-11-23 at 16 39 42_d82975a6](https://github.com/user-attachments/assets/23e65c7e-de00-4182-8809-48a01ba94b1f)
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+![WhatsApp Image 2025-11-23 at 16 40 35_24c70544](https://github.com/user-attachments/assets/407587bb-24d3-45a9-9d48-1aea36d11135)
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+
+![WhatsApp Image 2025-11-23 at 16 39 59_7d3da2a7](https://github.com/user-attachments/assets/8fa0b091-00fc-4575-abee-f02f9dc0fc10)
 
 # THEORY
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
+![WhatsApp Image 2025-11-23 at 16 40 55_289f4476](https://github.com/user-attachments/assets/f610833d-95fd-4d3a-a20b-e43c1e17abe2)
 
 # PROCEDURE 
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
+![WhatsApp Image 2025-11-23 at 16 41 43_ce417db1](https://github.com/user-attachments/assets/b8be12e8-c15e-43be-8303-24a0b28792f3)
 
 # CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
+![WhatsApp Image 2025-11-23 at 16 44 25_03f977ab](https://github.com/user-attachments/assets/71192a8c-99da-4e2b-8658-189fc7deeb60)
 
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
+![WhatsApp Image 2025-11-23 at 16 42 04_50ea7f80](https://github.com/user-attachments/assets/3122d7ed-dfba-4ea0-a7a8-6c4fef31cdd0)
 
 
 
